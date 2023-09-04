@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="0002bbd25dd841ef9b3c4a3d6d05c00b" nativeplatform="Steam" nativeuserid="76561198858183309" playername="youchan_0124" lastlogin="2023-08-18 21:43:30" position="1555,3,-336">
+  <player platform="EOS" userid="0002bbd25dd841ef9b3c4a3d6d05c00b" nativeplatform="Steam" nativeuserid="76561198858183309" playername="youchan_0124" lastlogin="2023-08-28 00:25:39" position="1557,3,-340">
     <bedroll pos="1409,35,-342" />
     <questpositions>
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
@@ -15,23 +15,21 @@
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002b16af72e4f36bc855accc5848c33" nativeplatform="Steam" nativeuserid="76561198244972916" playername="sky-001" lastlogin="2023-08-18 21:42:49" position="1558,3,-342">
+  <player platform="EOS" userid="0002b16af72e4f36bc855accc5848c33" nativeplatform="Steam" nativeuserid="76561198244972916" playername="sky-001" lastlogin="2023-08-28 00:25:32" position="1362,59,-289">
     <bedroll pos="1409,35,-341" />
     <questpositions>
       <position id="-38965090" positiondatatype="2" pos="1183,30,-618" />
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000284f2f9ec44d093b83a712e96c188" nativeplatform="Steam" nativeuserid="76561199070206067" playername="Pappy" lastlogin="2023-08-18 18:32:28" position="1406,35,-344">
+  <player platform="EOS" userid="000284f2f9ec44d093b83a712e96c188" nativeplatform="Steam" nativeuserid="76561199070206067" playername="Pappy" lastlogin="2023-08-28 00:24:29" position="1556,3,-340">
     <bedroll pos="1409,35,-340" />
     <questpositions>
       <position id="-38965090" positiondatatype="2" pos="1183,30,-618" />
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
-      <position id="-38965090" positiondatatype="7" pos="1202,35,-576" />
-      <position id="-2067293543" positiondatatype="2" pos="1332,28,-162" />
-      <position id="-2067293543" positiondatatype="0" pos="1346,38,-336" />
-      <position id="-1443661550" positiondatatype="2" pos="1488,34,-81" />
-      <position id="-1443661550" positiondatatype="0" pos="1346,38,-336" />
+      <position id="1573352810" positiondatatype="2" pos="1569,33,-770" />
+      <position id="1573352810" positiondatatype="0" pos="1346,38,-336" />
+      <position id="1573352810" positiondatatype="7" pos="1601,35,-718" />
     </questpositions>
   </player>
   <player platform="EOS" userid="0002d325f5bf4100a9a30507bff34342" nativeplatform="Steam" nativeuserid="76561198004816117" playername="Bloody.jp" lastlogin="2023-08-18 21:07:59" position="1560,3,-345">
@@ -48,12 +46,14 @@
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="00028ab83a92407a89d28f2ea04859b9" nativeplatform="Steam" nativeuserid="76561199005179379" playername="Zaphkiel" lastlogin="2023-08-18 21:41:42" position="1362,59,-295">
+  <player platform="EOS" userid="00028ab83a92407a89d28f2ea04859b9" nativeplatform="Steam" nativeuserid="76561199005179379" playername="Zaphkiel" lastlogin="2023-08-27 23:06:52" position="1554,3,-348">
     <bedroll pos="1409,35,-337" />
     <questpositions>
       <position id="-38965090" positiondatatype="2" pos="1183,30,-618" />
       <position id="-38965090" positiondatatype="0" pos="1346,38,-336" />
       <position id="-38965090" positiondatatype="7" pos="1202,35,-576" />
+      <position id="400023857" positiondatatype="2" pos="1713,34,-195" />
+      <position id="400023857" positiondatatype="0" pos="1346,38,-336" />
     </questpositions>
   </player>
 </persistentplayerdata>
